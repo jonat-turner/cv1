@@ -1,0 +1,110 @@
+.top {
+  background-color: #a6e4e7;
+  position: relative;
+  padding-top: 100px;
+  padding-bottom: 0;
+}
+
+.middle-container {
+  background-color: #f9f9f9;
+  padding-bottom: 75px;
+}
+
+.name {
+  color: #f9f9f9;
+  font-family: Pacifico, cursive;
+  font-size: 60px;
+  margin: 0;
+}
+
+.bottom {
+  background-color: #68b0ab;
+  height: 200px;
+  width: 200px;
+}
+
+.pro {
+  text-decoration: underline;
+  font-family: Pacifico, cursive;
+  color: #f9f9f9;
+  font-size: 37px;
+  position: relative;
+}
+
+body {
+  margin: 0;
+  text-align: center;
+}
+
+h2 {
+  color: #ebcbae;
+  font-family: 'Montserrat', sans-serif;
+}
+
+h3{
+  color: #cbaf87;
+  font-family: 'Montserrat', sans-serif;
+}
+p {
+  color: #8f8787;
+  font-family: 'Oswald', sans-serif;
+}
+
+hr {
+  border-top: 6px dotted;
+  border-left: none;
+  border-right: none;
+  border-bottom: none;
+  color: #8f8787;
+  width: 4%;
+}
+
+.cloud1 {
+  position: relative;
+  left: 300px;
+}
+
+.cloud2 {
+  position: absolute;
+  left: 300px;
+  bottom: 300px;
+}
+
+.grammer {
+  font-family: 'Pacifico', cursive;
+  color: #f9f9f9;
+  font-size: 30px;
+  position: relative;
+  bottom: 40px
+}
+
+.mountain {
+  position: relative;
+  top: 3.5px;
+}
+
+.ava {
+  margin-top: 30px;
+}
+.bottom-container{
+  background-color: #e6d5b8;
+  padding-top: 35px;
+  padding-bottom: 25px;
+}
+.footer-link{
+  display: block;
+text-align: center;
+text-decoration: none;
+color: #f9f9f9;
+font-size: 1.5em;
+}
+.footc{
+  font-family: adobe-garamond-pro,HelveticaNeue-Light,"Helvetica Neue Light","Helvetica Neue",Helvetica,Arial,"Lucida Grande",sans-serif;
+  font-size: 10px;
+}
+.myskills{
+  padding-top: 50px;
+}
+.getin{
+  padding-top: 50px;
+}
